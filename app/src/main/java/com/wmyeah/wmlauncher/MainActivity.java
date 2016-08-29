@@ -100,6 +100,4 @@ public class MainActivity extends Activity {
             TextView tvApp;
         }
     }
-
-
 }
